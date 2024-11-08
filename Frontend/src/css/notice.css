@@ -1,0 +1,8 @@
+.noticedis {
+        box-shadow: 2px 2px 10px rgb(60, 59, 59);
+    height: 400px;           /* Height of the box */
+    width: 400px;            /* Width of the box */
+    box-sizing: border-box; 
+    background: #da9ddd;
+     /* Ensures padding and border are included in width/height */
+}

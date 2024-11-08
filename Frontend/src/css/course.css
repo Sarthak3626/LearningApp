@@ -1,0 +1,16 @@
+.course-card{
+    width: 250px;
+    height: 450px;
+    border:4px solid rgb(121, 203, 184);
+    border-radius: 30px;
+    background-color: black;
+} 
+.details{
+    color: rgb(213, 200, 200);
+    font-size: 20px;
+}
+.pic{
+    width: 100%;
+    height: 50%;
+    border-radius: 20px;
+}
